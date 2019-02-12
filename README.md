@@ -9,6 +9,7 @@ This is an unofficial inplementation of [VoxelNet: End-to-End Learning for Point
 - `shapely`
 - `numba`
 - `easydict`
+- `libboost-all-dev`
 
 # Installation
 1. Clone this repository.
